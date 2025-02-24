@@ -1,0 +1,51 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "02_Recursos/Plantillas",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "02_Recursos/Scripts",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "05_Integrantes",
+      "template": "02_Recursos/Plantillas/integrante.md"
+    },
+    {
+      "folder": "01_Proyecto/Fichas_Tecnicas",
+      "template": "02_Recursos/Plantillas/ficha.md"
+    },
+    {
+      "folder": "01_Proyecto/Reuniones",
+      "template": "02_Recursos/Plantillas/reunion.md"
+    },
+    {
+      "folder": "06_Glosario",
+      "template": "02_Recursos/Plantillas/termino.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "02_Recursos/Plantillas/doc_maestro.md",
+    "02_Recursos/Plantillas/estructura.md",
+    "02_Recursos/Plantillas/runImport.md"
+  ],
+  "startup_templates": [
+    ""
+  ]
+}

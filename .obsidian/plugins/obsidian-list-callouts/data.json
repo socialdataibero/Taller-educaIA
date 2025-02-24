@@ -1,0 +1,150 @@
+[
+  {
+    "color": "255, 214, 0",
+    "char": "&"
+  },
+  {
+    "color": "255, 145, 0",
+    "char": "?"
+  },
+  {
+    "color": "255, 23, 68",
+    "char": "!"
+  },
+  {
+    "color": "124, 77, 255",
+    "char": "~"
+  },
+  {
+    "color": "0, 184, 212",
+    "char": "@"
+  },
+  {
+    "color": "0, 200, 83",
+    "char": "$"
+  },
+  {
+    "color": "158, 158, 158",
+    "char": "%"
+  },
+  {
+    "char": "ava!",
+    "color": "255, 56, 56",
+    "custom": true,
+    "icon": "lucide-calendar-check"
+  },
+  {
+    "char": "rol!",
+    "color": "122, 255, 204",
+    "icon": "lucide-contact",
+    "custom": true
+  },
+  {
+    "char": "n!",
+    "color": "158, 0, 0",
+    "icon": "lucide-users",
+    "custom": true
+  },
+  {
+    "char": "p!",
+    "color": "77, 255, 97",
+    "icon": "lucide-phone",
+    "custom": true
+  },
+  {
+    "char": "e!",
+    "color": "204, 255, 207",
+    "icon": "lucide-mail",
+    "custom": true
+  },
+  {
+    "char": "g!",
+    "color": "212, 0, 255",
+    "icon": "lucide-github",
+    "custom": true
+  },
+  {
+    "char": "z!",
+    "color": "255, 128, 128",
+    "icon": "lucide-file-key",
+    "custom": true
+  },
+  {
+    "char": "m!",
+    "color": "253, 163, 255",
+    "icon": "lucide-message-circle",
+    "custom": true
+  },
+  {
+    "char": "l!",
+    "color": "255, 77, 190",
+    "icon": "lucide-folder-symlink",
+    "custom": true
+  },
+  {
+    "char": "dr!",
+    "color": "112, 117, 255",
+    "icon": "lucide-book-up",
+    "custom": true
+  },
+  {
+    "char": "log!",
+    "color": "31, 240, 255",
+    "icon": "lucide-file-clock",
+    "custom": true
+  },
+  {
+    "char": "bib!",
+    "color": "92, 222, 255",
+    "icon": "lucide-file-text",
+    "custom": true
+  },
+  {
+    "char": "bull!",
+    "color": "254, 134, 134",
+    "icon": "lucide-target",
+    "custom": true
+  },
+  {
+    "char": "fun!",
+    "color": "255, 138, 206",
+    "icon": "lucide-wrench",
+    "custom": true
+  },
+  {
+    "char": "multi!",
+    "color": "255, 153, 153",
+    "icon": "lucide-copy-plus",
+    "custom": true
+  },
+  {
+    "char": "esca!",
+    "color": "254, 159, 210",
+    "icon": "lucide-chevrons-up",
+    "custom": true
+  },
+  {
+    "char": "tok!",
+    "color": "221, 148, 255",
+    "icon": "lucide-curly-braces",
+    "custom": true
+  },
+  {
+    "char": "tog!",
+    "color": "156, 149, 254",
+    "icon": "lucide-heart-handshake",
+    "custom": true
+  },
+  {
+    "char": "star!",
+    "color": "255, 237, 36",
+    "icon": "lucide-star",
+    "custom": true
+  },
+  {
+    "char": "lk!",
+    "color": "102, 230, 255",
+    "icon": "links-going-out",
+    "custom": true
+  }
+]

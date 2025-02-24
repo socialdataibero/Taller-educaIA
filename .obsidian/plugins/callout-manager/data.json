@@ -1,0 +1,323 @@
+{
+  "callouts": {
+    "custom": [
+      "user-information",
+      "state",
+      "blue",
+      "yellow",
+      "green",
+      "other",
+      "red",
+      "purple",
+      "pink",
+      "orange",
+      "gray",
+      "reu",
+      "team",
+      "cond",
+      "incl",
+      "cons",
+      "resp",
+      "words",
+      "dif",
+      "respons",
+      "aca",
+      "aut",
+      "gen",
+      "today",
+      "tomorrow",
+      "diagram",
+      "funcion",
+      "vs",
+      "upper",
+      "side",
+      "conversation",
+      "search",
+      "more"
+    ],
+    "settings": {
+      "user-information": [
+        {
+          "changes": {
+            "icon": "lucide-user-circle",
+            "color": "131, 253, 129"
+          }
+        }
+      ],
+      "state": [
+        {
+          "changes": {
+            "icon": "lucide-arrow-up-10",
+            "color": "182, 71, 255"
+          }
+        }
+      ],
+      "blue": [
+        {
+          "changes": {
+            "icon": "lucide-notebook-text"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "82, 139, 212"
+          }
+        }
+      ],
+      "yellow": [
+        {
+          "changes": {
+            "icon": "lucide-notebook-text",
+            "color": "255, 212, 0"
+          }
+        }
+      ],
+      "green": [
+        {
+          "changes": {
+            "icon": "lucide-notebook-text",
+            "color": "95, 178, 54"
+          }
+        }
+      ],
+      "other": [
+        {
+          "changes": {
+            "icon": "lucide-notebook-text",
+            "color": "173, 173, 173"
+          }
+        }
+      ],
+      "red": [
+        {
+          "changes": {
+            "icon": "lucide-notebook-text",
+            "color": "255, 102, 102"
+          }
+        }
+      ],
+      "purple": [
+        {
+          "changes": {
+            "icon": "lucide-notebook-text",
+            "color": "162, 138, 229"
+          }
+        }
+      ],
+      "pink": [
+        {
+          "changes": {
+            "icon": "lucide-notebook-text",
+            "color": "229, 110, 238"
+          }
+        }
+      ],
+      "orange": [
+        {
+          "changes": {
+            "icon": "lucide-notebook-text",
+            "color": "241, 152, 55"
+          }
+        }
+      ],
+      "gray": [
+        {
+          "changes": {
+            "icon": "lucide-notebook-text",
+            "color": "170, 170, 170"
+          }
+        }
+      ],
+      "reu": [
+        {
+          "changes": {
+            "icon": "lucide-video",
+            "color": "41, 255, 155"
+          }
+        }
+      ],
+      "team": [
+        {
+          "changes": {
+            "icon": "lucide-user-search",
+            "color": "15, 131, 255"
+          }
+        }
+      ],
+      "cond": [
+        {
+          "changes": {
+            "icon": "lucide-file-heart",
+            "color": "252, 97, 255"
+          }
+        }
+      ],
+      "incl": [
+        {
+          "changes": {
+            "icon": "lucide-heart-handshake",
+            "color": "255, 143, 251"
+          }
+        }
+      ],
+      "cons": [
+        {
+          "changes": {
+            "icon": "lucide-person-standing",
+            "color": "171, 102, 255"
+          }
+        }
+      ],
+      "resp": [
+        {
+          "changes": {
+            "icon": "lucide-helping-hand",
+            "color": "106, 88, 249"
+          }
+        }
+      ],
+      "words": [
+        {
+          "changes": {
+            "icon": "lucide-whole-word",
+            "color": "122, 204, 255"
+          }
+        }
+      ],
+      "dif": [
+        {
+          "changes": {
+            "icon": "lucide-biceps-flexed",
+            "color": "112, 255, 136"
+          }
+        }
+      ],
+      "respons": [
+        {
+          "changes": {
+            "icon": "lucide-bookmark-check",
+            "color": "228, 255, 92"
+          }
+        }
+      ],
+      "aca": [
+        {
+          "changes": {
+            "icon": "lucide-scroll",
+            "color": "251, 180, 80"
+          }
+        }
+      ],
+      "aut": [
+        {
+          "changes": {
+            "icon": "lucide-user-round-pen",
+            "color": "255, 107, 107"
+          }
+        }
+      ],
+      "gen": [
+        {
+          "changes": {
+            "icon": "lucide-globe",
+            "color": "255, 112, 112"
+          }
+        }
+      ],
+      "today": [
+        {
+          "changes": {
+            "icon": "lucide-calendar-check",
+            "color": "255, 107, 243"
+          }
+        }
+      ],
+      "tomorrow": [
+        {
+          "changes": {
+            "icon": "lucide-calendar-arrow-up",
+            "color": "152, 124, 253"
+          }
+        }
+      ],
+      "diagram": [
+        {
+          "changes": {
+            "icon": "lucide-workflow",
+            "color": "251, 219, 101"
+          }
+        }
+      ],
+      "funcion": [
+        {
+          "changes": {
+            "icon": "lucide-function-square",
+            "color": "255, 128, 128"
+          }
+        }
+      ],
+      "vs": [
+        {
+          "changes": {
+            "icon": "lucide-chevrons-left-right-ellipsis",
+            "color": "219, 144, 254"
+          }
+        }
+      ],
+      "upper": [
+        {
+          "changes": {
+            "icon": "lucide-panel-top-inactive",
+            "color": "254, 238, 159"
+          }
+        }
+      ],
+      "side": [
+        {
+          "changes": {
+            "icon": "sidebar-left",
+            "color": "134, 246, 254"
+          }
+        }
+      ],
+      "conversation": [
+        {
+          "changes": {
+            "icon": "lucide-whole-word",
+            "color": "138, 244, 198"
+          }
+        }
+      ],
+      "search": [
+        {
+          "changes": {
+            "icon": "lucide-user-search",
+            "color": "244, 138, 235"
+          }
+        }
+      ],
+      "more": [
+        {
+          "changes": {
+            "icon": "lucide-plus-circle",
+            "color": "255, 148, 148"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

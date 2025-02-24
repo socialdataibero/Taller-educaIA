@@ -1,0 +1,49 @@
+{
+  "devMode": false,
+  "ignoreCodeBlockRestrictions": false,
+  "preferredDateFormat": "YYYY-MM-DD",
+  "firstWeekday": {
+    "index": 1,
+    "name": "Monday",
+    "shortName": "Mo"
+  },
+  "syncInterval": 200,
+  "minSyncInterval": 50,
+  "maxSyncInterval": 1000,
+  "enableJs": true,
+  "viewFieldDisplayNullAsEmpty": false,
+  "enableSyntaxHighlighting": true,
+  "enableEditorRightClickMenu": true,
+  "inputFieldTemplates": [],
+  "buttonTemplates": [
+    {
+      "label": "Actualizar nota",
+      "hidden": false,
+      "tooltip": "Esto recuperará nuevas anotaciones de Zotero",
+      "id": "actualizar-nota-literatura",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "templater-obsidian:02_Recursos/Plantillas/runImport.md"
+        }
+      ]
+    },
+    {
+      "label": "Iniciar proyecto",
+      "hidden": false,
+      "tooltip": "Generará un documento maestro del proyecto",
+      "id": "doc-master-button",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "templater-obsidian:create-02_Recursos/Plantillas/doc_maestro.md"
+        }
+      ]
+    }
+  ],
+  "excludedFolders": [
+    "templates"
+  ]
+}

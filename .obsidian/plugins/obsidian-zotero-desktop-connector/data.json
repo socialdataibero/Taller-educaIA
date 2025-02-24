@@ -1,0 +1,32 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "01_Proyecto/Bibliografia",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Format_bibliography",
+      "format": "formatted-bibliography"
+    },
+    {
+      "name": "Format_inline",
+      "format": "formatted-citation",
+      "cslStyle": "APA7 "
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Import_Annotations",
+      "outputPathTemplate": "01_Proyecto/Bibliografia/{{citekey}}.md",
+      "imageOutputPathTemplate": "{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "cslStyle": "apa",
+      "templatePath": "02_Recursos/Plantillas/notes.md"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "shouldConcat": true
+}

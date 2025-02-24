@@ -1,0 +1,23 @@
+{
+  "things-style@@fancy-code": true,
+  "things-style@@fancy-highlight": true,
+  "list-callouts@@lc-bg-opacity-dark": 0.2,
+  "Appearance-dark@@card-layout-open-dark": true,
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-black",
+  "Appearance-dark@@accent-dark": "#E54044",
+  "Appearance-dark@@accent-color-override-dark": false,
+  "Editor@@h1-size": "1.7em",
+  "Editor@@h1-color-select": "h1-color-designated",
+  "Editor@@line-hover-indicator": false,
+  "Editor@@bold-color@@dark": "#FFFFFF",
+  "Editor@@bold-color@@light": "#000000",
+  "Editor@@link-color@@dark": "#F3D7BD",
+  "Editor@@link-unresolved-decoration-style": "dotted",
+  "Editor@@tag-color@@dark": "#EF4044",
+  "Editor@@callout-style-select": "callout-style-2",
+  "Editor@@link-unresolved-decoration-color@@dark": "#F3D7BD",
+  "Editor@@link-unresolved-color@@dark": "#F3D7BD",
+  "Editor@@tag-background-hover@@dark": "#FFFFFF",
+  "Editor@@tag-background@@dark": "#F3D7BD",
+  "Components@@file-icon-remove": true
+}

@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "status": "multitext",
+    "date": "text",
+    "asigned_to": "multitext",
+    "phone": "text",
+    "mattermost": "text"
+  }
+}
