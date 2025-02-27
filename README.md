@@ -1,14 +1,14 @@
 ![Texto Alternativo](04_Assets/favicon.svg)
 
 ---
-# 📄 Taller **LLM - Modelos de Lenguaje Grande: _Herramientas de IA para la Investigación y la Docencia**_
+# 📄 Taller **LLM - Modelos de Lenguaje Grande: Herramientas de IA para la Investigación y la Docencia**
 
 [![SocialDataI](https://img.shields.io/badge/SocialData-Ibero.mx-red)](https://socialdata.ibero.mx/) 
 
 ---
 
-> [!note] **Información General**  
-> 
+> [!note]
+> **Información General**  
 > Este taller explora el uso de **Modelos de Lenguaje Grande (LLM)** y herramientas de **IA** para potenciar la **investigación y la docencia**, proporcionando a los asistentes conocimientos prácticos sobre su aplicación en entornos académicos.
 
 ---
