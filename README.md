@@ -7,7 +7,7 @@
 
 ---
 
-> [!info] **Información General**  
+> [!note] **Información General**  
 > 
 > Este taller explora el uso de **Modelos de Lenguaje Grande (LLM)** y herramientas de **IA** para potenciar la **investigación y la docencia**, proporcionando a los asistentes conocimientos prácticos sobre su aplicación en entornos académicos.
 
@@ -69,6 +69,6 @@
 
 ---
 
-> [!success]  
+> [!note]  
 > **Este README está diseñado para proporcionar una estructura organizada y accesible para los participantes del taller.**  
 > Si necesitas ajustes o información adicional, ¡no dudes en hacerlo!
