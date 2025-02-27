@@ -33,7 +33,12 @@
       "side",
       "conversation",
       "search",
-      "more"
+      "more",
+      "gem",
+      "pay",
+      "load",
+      "resource",
+      "deep"
     ],
     "settings": {
       "user-information": [
@@ -277,7 +282,7 @@
         {
           "changes": {
             "icon": "lucide-panel-top-inactive",
-            "color": "254, 238, 159"
+            "color": "230, 191, 0"
           }
         }
       ],
@@ -310,6 +315,44 @@
           "changes": {
             "icon": "lucide-plus-circle",
             "color": "255, 148, 148"
+          }
+        }
+      ],
+      "gem": [
+        {
+          "changes": {
+            "icon": "lucide-gem",
+            "color": "97, 102, 255"
+          }
+        }
+      ],
+      "pay": [
+        {
+          "changes": {
+            "icon": "lucide-circle-dollar-sign",
+            "color": "32, 254, 47"
+          }
+        }
+      ],
+      "load": [
+        {
+          "changes": {
+            "icon": "lucide-upload",
+            "color": "254, 32, 224"
+          }
+        }
+      ],
+      "resource": [
+        {
+          "changes": {
+            "icon": "lucide-notebook-pen"
+          }
+        }
+      ],
+      "deep": [
+        {
+          "changes": {
+            "color": "254, 57, 57"
           }
         }
       ]

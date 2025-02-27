@@ -137,14 +137,74 @@
   },
   {
     "char": "star!",
-    "color": "255, 237, 36",
+    "color": "216, 219, 0",
     "icon": "lucide-star",
     "custom": true
   },
   {
     "char": "lk!",
-    "color": "102, 230, 255",
+    "color": "0, 213, 255",
     "icon": "links-going-out",
+    "custom": true
+  },
+  {
+    "char": "int!",
+    "color": "255, 148, 148",
+    "icon": "lucide-file-heart",
+    "custom": true
+  },
+  {
+    "char": "task!",
+    "color": "255, 122, 244",
+    "icon": "lucide-check-circle",
+    "custom": true
+  },
+  {
+    "char": "inte!",
+    "color": "93, 103, 254",
+    "icon": "lucide-arrow-down-right-from-square",
+    "custom": true
+  },
+  {
+    "char": "plat!",
+    "color": "10, 255, 161",
+    "icon": "lucide-monitor-smartphone",
+    "custom": true
+  },
+  {
+    "char": "cov!",
+    "color": "255, 20, 224",
+    "icon": "lucide-messages-square",
+    "custom": true
+  },
+  {
+    "char": "gen!",
+    "color": "50, 255, 36",
+    "icon": "lucide-brain",
+    "custom": true
+  },
+  {
+    "char": "gear!",
+    "color": "182, 46, 255",
+    "icon": "lucide-settings",
+    "custom": true
+  },
+  {
+    "char": "der!",
+    "color": "46, 31, 255",
+    "icon": "lucide-arrow-big-right-dash",
+    "custom": true
+  },
+  {
+    "char": "data!",
+    "color": "254, 247, 47",
+    "icon": "lucide-database-backup",
+    "custom": true
+  },
+  {
+    "char": "standar!",
+    "color": "109, 31, 255",
+    "icon": "lucide-baseline",
     "custom": true
   }
 ]
