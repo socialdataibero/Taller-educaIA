@@ -67,8 +67,3 @@
 > **¡No olvides traer tu laptop!**  
 > Algunos ejercicios prácticos requerirán el uso de las herramientas mencionadas.  
 
----
-
-> [!note]  
-> **Este README está diseñado para proporcionar una estructura organizada y accesible para los participantes del taller.**  
-> Si necesitas ajustes o información adicional, ¡no dudes en hacerlo!
