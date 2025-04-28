@@ -7,13 +7,13 @@
 
 ---
 
-> [!note]
-> **Información General**  
+> [!note] **Información general**  
+> 
 > Este taller explora el uso de **Modelos de Lenguaje Grande (LLM)** y herramientas de **IA** para potenciar la **investigación y la docencia**, proporcionando a los asistentes conocimientos prácticos sobre su aplicación en entornos académicos.
 
 ---
 
-## 🎯 **Objetivo del Taller**  
+## 🎯 **Objetivo del taller**  
 
 > [!tip]  
 > **Desarrollar una comprensión fundamental sobre los LLM**  
@@ -21,16 +21,10 @@
 
 ---
 
-## 📝 **Agenda**  
+## 📝 **Materiales**  
 
-1. **Introducción** (~5 min)  
-2. **LLM (Modelos de Lenguaje Grande)** (~40 min)  
-3. **Google AI** (~40 min)  
-4. **Claude (Anthropic)** (~10 min)  
-5. **Receso (~5 min)**  
-6. **ChatGPT (OpenAI)** (~40 min)  
-7. **Opensource** (~40 min)  
-8. **Conclusiones & Preguntas** (~10 min)  
+1. 
+
 
 ---
 
@@ -49,16 +43,18 @@
 
 ---
 
-## 📌 **Enlaces Útiles**  
+## 📌 **Enlaces a aplicaciones**  
 
 > [!note]  
 > **Enlaces a recursos a utilizar en el taller:**  
-> - [Presentación](https://docs.google.com/presentation/d/1BjVC87rd-LCUhEFMIgpc9UeQJlAXEpAqwDRvSnXjSgM/edit?usp=sharing)
 > - [Google Gemini](https://gemini.google.com/app?hl=es)  
 > - [NotebookLM](https://notebooklm.google.com/)
 > - [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
 > - [Claude by Anthropic](https://claude.ai/new)  
-> - [ChatGPT (OpenAI)](https://chat.openai.com)  
+> - [ChatGPT (OpenAI)](https://chat.openai.com)
+> - [Mistral](https://chat.mistral.ai/chat)
+> - [Qwen](https://chat.qwen.ai/)
+> - [DeepSeek](https://www.deepseek.com/)
 
 
 ---
