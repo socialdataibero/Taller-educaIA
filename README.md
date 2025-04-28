@@ -20,6 +20,14 @@
 > El objetivo es aprender a utilizar herramientas de IA para **optimizar procesos de investigación y enseñanza**, explorando las capacidades de los modelos más avanzados.
 
 ---
+## 📌 **Recursos**  
+
+> [!note]  
+> **Enlaces a recursos del taller:**  
+> - [Presentación](https://docs.google.com/presentation/d/1OvgYM88cbpqH2wtgjRptaTtkSe6WYIgJEHIxeCeo4p8/edit?slide=id.g2dcd6e13773_0_64#slide=id.g2dcd6e13773_0_64)  
+> - [EducaIA](https://socialdataibero.github.io/educaIA/intro.html)
+
+---
 
 ## 📝 **Materiales del taller**  
 
@@ -57,16 +65,6 @@
 > - [Mistral](https://chat.mistral.ai/chat)
 > - [Qwen](https://chat.qwen.ai/)
 > - [DeepSeek](https://www.deepseek.com/)
-
-
----
-## 📌 **Recursos**  
-
-> [!note]  
-> **Enlaces a recursos del taller:**  
-> - [Presentación](https://docs.google.com/presentation/d/1OvgYM88cbpqH2wtgjRptaTtkSe6WYIgJEHIxeCeo4p8/edit?slide=id.g2dcd6e13773_0_64#slide=id.g2dcd6e13773_0_64)  
-> - [EducaIA](https://socialdataibero.github.io/educaIA/intro.html)
-
 
 ---
 
