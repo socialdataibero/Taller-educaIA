@@ -7,8 +7,8 @@
 
 ---
 
-> [!note] **Información general**  
-> 
+> [!note] 
+> **Información general**  
 > Este taller explora el uso de **Modelos de Lenguaje Grande (LLM)** y herramientas de **IA** para potenciar la **investigación y la docencia**, proporcionando a los asistentes conocimientos prácticos sobre su aplicación en entornos académicos.
 
 ---
@@ -21,9 +21,11 @@
 
 ---
 
-## 📝 **Materiales**  
+## 📝 **Materiales del taller**  
 
-1. 
+1. [Claude](https://github.com/socialdataibero/Taller-educaIA/tree/main/Claude)
+2. [Google AI](https://github.com/socialdataibero/Taller-educaIA/tree/main/GoogleAI)
+3. [Otros](https://github.com/socialdataibero/Taller-educaIA/tree/main/otros)
 
 
 ---
@@ -43,10 +45,10 @@
 
 ---
 
-## 📌 **Enlaces a aplicaciones**  
+## 📌 **Aplicaciones**  
 
 > [!note]  
-> **Enlaces a recursos a utilizar en el taller:**  
+> **Enlaces a _apps_ a utilizar en el taller:**  
 > - [Google Gemini](https://gemini.google.com/app?hl=es)  
 > - [NotebookLM](https://notebooklm.google.com/)
 > - [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
@@ -55,6 +57,15 @@
 > - [Mistral](https://chat.mistral.ai/chat)
 > - [Qwen](https://chat.qwen.ai/)
 > - [DeepSeek](https://www.deepseek.com/)
+
+
+---
+## 📌 **Recursos**  
+
+> [!note]  
+> **Enlaces a recursos del taller:**  
+> - [Presentación](https://docs.google.com/presentation/d/1OvgYM88cbpqH2wtgjRptaTtkSe6WYIgJEHIxeCeo4p8/edit?slide=id.g2dcd6e13773_0_64#slide=id.g2dcd6e13773_0_64)  
+> - [EducaIA](https://socialdataibero.github.io/educaIA/intro.html)
 
 
 ---
