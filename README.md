@@ -24,25 +24,18 @@
 
 > [!note]  
 > **Enlaces a recursos del taller:**  
-> - [Presentación](https://docs.google.com/presentation/d/1OvgYM88cbpqH2wtgjRptaTtkSe6WYIgJEHIxeCeo4p8/edit?slide=id.g2dcd6e13773_0_64#slide=id.g2dcd6e13773_0_64)  
+> - [Presentación](https://docs.google.com/presentation/d/1OvgYM88cbpqH2wtgjRptaTtkSe6WYIgJEHIxeCeo4p8/edit?slide=id.g2dcd6e13773_0_64#slide=id.g2dcd6e13773_0_64) (Anterior) 
 > - [EducaIA](https://socialdataibero.github.io/educaIA/intro.html)
 
----
-
-## 📝 **Materiales del taller**  
-
-1. [Claude](https://github.com/socialdataibero/Taller-educaIA/tree/main/Claude)
-2. [Google AI](https://github.com/socialdataibero/Taller-educaIA/tree/main/GoogleAI)
-3. [Otros](https://github.com/socialdataibero/Taller-educaIA/tree/main/otros)
 
 
 ---
 
 ## 👥 **Colaboradores**  
 
-- **Wilfrido Gómez**  
+- **Wilfrido A. Gómez-Arias**  
 - **Juan Vázquez**  
-- **Armando Rodríguez**  
+- **Armando Huitzilt Rodríguez**  
 
 ---
 
