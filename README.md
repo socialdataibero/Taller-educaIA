@@ -97,6 +97,7 @@ timeline
 [![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-darkblue)](https://www.deepseek.com/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-ML-yellow)](https://huggingface.co/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange)](https://jupyter.org/)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebooks-yellow)](https://colab.research.google.com/)
 [![VSCode](https://img.shields.io/badge/VSCode-Microsoft-blue)](https://code.visualstudio.com/)
 
 </div>
