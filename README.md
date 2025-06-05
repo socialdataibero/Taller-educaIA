@@ -1,4 +1,4 @@
-![Texto Alternativo](04_Assets/favicon.svg)
+![Texto Alternativo](00_Assets/favicon.svg)
 
 ---
 # 📄 Taller **LLM - Modelos de Lenguaje Grande: Herramientas de IA para la Investigación y la Docencia**
